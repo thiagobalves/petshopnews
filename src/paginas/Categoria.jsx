@@ -36,7 +36,6 @@ const Categoria = () => {
               </Link>
             </li>
           ))
-
         }
       </ul>
         <Route exact path={`${path}/`}>
